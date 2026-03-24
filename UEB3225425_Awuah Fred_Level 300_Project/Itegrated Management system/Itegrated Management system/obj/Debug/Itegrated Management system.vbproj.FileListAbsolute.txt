@@ -1,0 +1,43 @@
+C:\Users\Lenovo\Desktop\Fred\Itegrated Management system\Itegrated Management system\bin\Debug\Itegrated Management system.exe.config
+C:\Users\Lenovo\Desktop\Fred\Itegrated Management system\Itegrated Management system\bin\Debug\Itegrated Management system.exe
+C:\Users\Lenovo\Desktop\Fred\Itegrated Management system\Itegrated Management system\bin\Debug\Itegrated Management system.pdb
+C:\Users\Lenovo\Desktop\Fred\Itegrated Management system\Itegrated Management system\bin\Debug\Itegrated Management system.xml
+C:\Users\Lenovo\Desktop\Fred\Itegrated Management system\Itegrated Management system\obj\Debug\Itegrated Management system.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Fred\Itegrated Management system\Itegrated Management system\obj\Debug\Itegrated_Management_system.DashBoardForm.resources
+C:\Users\Lenovo\Desktop\Fred\Itegrated Management system\Itegrated Management system\obj\Debug\Itegrated_Management_system.Form1.resources
+C:\Users\Lenovo\Desktop\Fred\Itegrated Management system\Itegrated Management system\obj\Debug\Itegrated_Management_system.Resources.resources
+C:\Users\Lenovo\Desktop\Fred\Itegrated Management system\Itegrated Management system\obj\Debug\Itegrated Management system.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Fred\Itegrated Management system\Itegrated Management system\obj\Debug\Itegrated Management system.exe
+C:\Users\Lenovo\Desktop\Fred\Itegrated Management system\Itegrated Management system\obj\Debug\Itegrated Management system.xml
+C:\Users\Lenovo\Desktop\Fred\Itegrated Management system\Itegrated Management system\obj\Debug\Itegrated Management system.pdb
+C:\Users\Lenovo\Desktop\Fred\Itegrated Management system\Itegrated Management system\obj\Debug\Itegrated_Management_system.HospitalBillingForm.resources
+C:\Users\Lenovo\Desktop\Fred\Itegrated Management system\Itegrated Management system\obj\Debug\Itegrated_Management_system.Student_Loan_module_Form.resources
+C:\Users\Lenovo\Desktop\awuah\Itegrated Management system\Itegrated Management system\bin\Debug\Itegrated Management system.exe.config
+C:\Users\Lenovo\Desktop\awuah\Itegrated Management system\Itegrated Management system\obj\Debug\Itegrated Management system.exe
+C:\Users\Lenovo\Desktop\awuah\Itegrated Management system\Itegrated Management system\obj\Debug\Itegrated Management system.xml
+C:\Users\Lenovo\Desktop\awuah\Itegrated Management system\Itegrated Management system\obj\Debug\Itegrated Management system.pdb
+C:\Users\Lenovo\Desktop\awuah\Itegrated Management system\Itegrated Management system\bin\Debug\Itegrated Management system.exe
+C:\Users\Lenovo\Desktop\awuah\Itegrated Management system\Itegrated Management system\bin\Debug\Itegrated Management system.pdb
+C:\Users\Lenovo\Desktop\awuah\Itegrated Management system\Itegrated Management system\bin\Debug\Itegrated Management system.xml
+C:\Users\Lenovo\Desktop\awuah\Itegrated Management system\Itegrated Management system\obj\Debug\Itegrated Management system.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\awuah\Itegrated Management system\Itegrated Management system\obj\Debug\Itegrated_Management_system.DashBoardForm.resources
+C:\Users\Lenovo\Desktop\awuah\Itegrated Management system\Itegrated Management system\obj\Debug\Itegrated_Management_system.HospitalBillingForm.resources
+C:\Users\Lenovo\Desktop\awuah\Itegrated Management system\Itegrated Management system\obj\Debug\Itegrated_Management_system.Form1.resources
+C:\Users\Lenovo\Desktop\awuah\Itegrated Management system\Itegrated Management system\obj\Debug\Itegrated_Management_system.Resources.resources
+C:\Users\Lenovo\Desktop\awuah\Itegrated Management system\Itegrated Management system\obj\Debug\Itegrated_Management_system.Student_Loan_module_Form.resources
+C:\Users\Lenovo\Desktop\awuah\Itegrated Management system\Itegrated Management system\obj\Debug\Itegrated Management system.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\UEB3225425_Awuah Fred_Level 300_Project\Itegrated Management system\Itegrated Management system\bin\Debug\Itegrated Management system.exe.config
+C:\Users\Lenovo\Desktop\UEB3225425_Awuah Fred_Level 300_Project\Itegrated Management system\Itegrated Management system\obj\Debug\Itegrated Management system.exe
+C:\Users\Lenovo\Desktop\UEB3225425_Awuah Fred_Level 300_Project\Itegrated Management system\Itegrated Management system\obj\Debug\Itegrated Management system.xml
+C:\Users\Lenovo\Desktop\UEB3225425_Awuah Fred_Level 300_Project\Itegrated Management system\Itegrated Management system\obj\Debug\Itegrated Management system.pdb
+C:\Users\Lenovo\Desktop\UEB3225425_Awuah Fred_Level 300_Project\Itegrated Management system\Itegrated Management system\bin\Debug\Itegrated Management system.exe
+C:\Users\Lenovo\Desktop\UEB3225425_Awuah Fred_Level 300_Project\Itegrated Management system\Itegrated Management system\bin\Debug\Itegrated Management system.pdb
+C:\Users\Lenovo\Desktop\UEB3225425_Awuah Fred_Level 300_Project\Itegrated Management system\Itegrated Management system\bin\Debug\Itegrated Management system.xml
+C:\Users\Lenovo\Desktop\UEB3225425_Awuah Fred_Level 300_Project\Itegrated Management system\Itegrated Management system\obj\Debug\Itegrated_Management_system.DashBoardForm.resources
+C:\Users\Lenovo\Desktop\UEB3225425_Awuah Fred_Level 300_Project\Itegrated Management system\Itegrated Management system\obj\Debug\Itegrated_Management_system.HospitalBillingForm.resources
+C:\Users\Lenovo\Desktop\UEB3225425_Awuah Fred_Level 300_Project\Itegrated Management system\Itegrated Management system\obj\Debug\Itegrated_Management_system.Resources.resources
+C:\Users\Lenovo\Desktop\UEB3225425_Awuah Fred_Level 300_Project\Itegrated Management system\Itegrated Management system\obj\Debug\Itegrated_Management_system.Student_Loan_module_Form.resources
+C:\Users\Lenovo\Desktop\UEB3225425_Awuah Fred_Level 300_Project\Itegrated Management system\Itegrated Management system\obj\Debug\Itegrated Management system.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\UEB3225425_Awuah Fred_Level 300_Project\Itegrated Management system\Itegrated Management system\obj\Debug\Itegrated_Management_system.LoginForm.resources
+C:\Users\Lenovo\Desktop\UEB3225425_Awuah Fred_Level 300_Project\Itegrated Management system\Itegrated Management system\obj\Debug\Itegrated Management system.vbproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\UEB3225425_Awuah Fred_Level 300_Project\Itegrated Management system\Itegrated Management system\obj\Debug\Itegrated Management system.vbproj.CoreCompileInputs.cache
